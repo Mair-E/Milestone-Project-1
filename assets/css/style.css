@@ -3,7 +3,7 @@
 /*--------------------------------Colors */
 
 .bg-color-title {
-    background-color: blueviolet;
+    background-color: #8a2be2;
 }
 
 .ui-menu-color-home {
@@ -82,3 +82,10 @@ header {
 /*--------------------------------*/
 
 /*--------------------------------Footer */
+
+footer {
+    background-color: #8a2be2;
+    color: #fff;
+    min-height: 120px;
+    margin: 0;
+}
