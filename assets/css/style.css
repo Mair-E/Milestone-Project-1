@@ -1,11 +1,84 @@
-
+@import url('https://fonts.googleapis.com/css?family=Dancing Script:100,200,300,400,500,600,700|Anton:100,200,300,400,500,600,700');
 
 /*--------------------------------Colors */
 
+.bg-color-title {
+    background-color: blueviolet;
+}
+
+.ui-menu-color-home {
+    background-color: #f5d506;
+}
+
+.ui-menu-color-services {
+    background-color: #f5d506;
+}
+
+.ui-menu-color-book {
+    background-color: #f5d506;
+}
+
+.ui-menu-color-contact {
+    background-color: #f5d506;
+}
 /*--------------------------------Special paddings/margins/text */
 
 /*--------------------------------Heading */
 
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+    min-height: 240px;
+}
+
+.logo {
+    background: url("../css/images/carspa.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.title {
+    font-family: "Anton", sans-serif;
+    font-weight: 100;
+    font-size: 46px;
+    margin-top: 60px;
+    color: #fff;
+}
+.name {
+    font-family: "Dancing Script", sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+    margin-top: 20px;
+    color: #fff;
+    margin-bottom: 50px;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 20px;
+    padding: 0;
+}
+
+.menuitem a {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
 /*--------------------------------*/
 
 /*--------------------------------Footer */

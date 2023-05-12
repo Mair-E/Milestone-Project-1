@@ -98,8 +98,9 @@ Instructions on how to xx for the xx page was taken from xx
 The icons in the footer were taken from Font Awesome (link)
 
 Media
-The photos used on the home page are from xxx 
+The photos used on the home page are from https://www.tukoapp.com/ (logo) and https://www.madrazicarspa.in/#
 The images used for the xx page were taken from xx.
+Using a Bootstrap and Font Awesome framwork.
 
 ## Future features
 A user to be able to create a profile ro return to that rememers their details and previous bookings.
