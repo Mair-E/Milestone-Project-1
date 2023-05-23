@@ -6,6 +6,14 @@
     background-color: #8a2be2;
 }
 
+.bg-color-about-us {
+    background-color: #e83e8c;
+}
+
+.bg-color-customer-review {
+    background-color: #f5d506;
+}
+
 .ui-menu-color-home {
     background-color: #f5d506;
 }
@@ -22,6 +30,41 @@
     background-color: #f5d506;
 }
 /*--------------------------------Special paddings/margins/text */
+
+h1,
+h2,
+h3 {
+    margin: 0;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-style: bold;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: "Anton", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
 
 /*--------------------------------Heading */
 
@@ -48,17 +91,19 @@ header {
 .title {
     font-family: "Anton", sans-serif;
     font-weight: 100;
-    font-size: 46px;
+    font-size: 60px;
     margin-top: 60px;
     color: #fff;
+    text-align: center;
 }
 .name {
     font-family: "Dancing Script", sans-serif;
     font-weight: 100;
-    font-size: 36px;
+    font-size: 42px;
     margin-top: 20px;
     color: #fff;
     margin-bottom: 50px;
+    text-align: center;
 }
 
 .list-inline-item:not(:last-child) {
@@ -79,7 +124,6 @@ header {
     text-align: center;
     padding: 0;
 }
-/*--------------------------------*/
 
 /*--------------------------------Footer */
 
@@ -88,4 +132,40 @@ footer {
     color: #fff;
     min-height: 120px;
     margin: 0;
+}
+
+#footer-details {
+    padding: 20px;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 40px;
+    height: 40px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #000000;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #e83e8c;
+}
+
+/*--------------------------------Customer Reviews*/
+
+.customer-review-item {
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
 }
