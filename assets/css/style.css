@@ -114,6 +114,12 @@ header {
     margin: 0;
 }
 
+.list-inline {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+}
+
 .menucontainer {
     font-size: 0;
 }
@@ -127,9 +133,6 @@ header {
     height: 120px;
     text-align: center;
     padding: 0;
-}
-
-.row {
 }
 
 /*--------------------------------Footer */
