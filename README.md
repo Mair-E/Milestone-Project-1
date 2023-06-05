@@ -147,6 +147,7 @@ https://www.geeksforgeeks.org/
 
 ## Future features
 A user to be able to create a profile to return to that rememers their details and previous bookings.
+After having spoken to my mentor and reviewing my README.md we have identified that it would be beneficial to break up my comimts into smaller chunks with better descriptions. I will ensure to do this in the future. 
 
 
 
