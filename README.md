@@ -77,6 +77,7 @@ iNSERT IMAGE OF WIRE FRAMES XX
 
 ### Anything else
 
+
 ## Testing
 Contuct enough testing to prve the site works well. Go over all features and ensure they work as intended and the site provides an easy and simple way for the user to achieve their goal.
 Mention how the project looks/works in different browsers.
@@ -89,16 +90,16 @@ Expectation - I want to easily figure out the purpose of the website.
 Result - 
 
 Expectation - I want to navigate easily around the site.
-Result - 
+Result - The landing image takes you back to the home page from all pages and the headings are located in the same place on each page to easily navigate the site.
 
 Expectation - I want to be able to find a list of services.
-Result -
+Result - By following the services link in the heading for Services it takes you to the Services page where it lists external and internal services provided by the company.
 
 Expectation - I want to be able to get in contact with the company.
-Result 
+Result - By following the services link in the heading for Book / Contact it takes you to the Booking and Contact page page where contact details are provided. There is also a quick summary of these on the footer of every page.
 
 Expectation - I want to be able to make a booking quickly.
-Result 
+Result - By following the services link in the heading for Book /Contact it takes you to the Booking and Contact page page where a booking form is provided. Here a custoemr can enter their details and the service they want and a team member will get back to them to confirm the booking.
 
 Expectation - I want reassurance of the repuation of the company.
 Result
@@ -132,11 +133,17 @@ Content
 The text for the xx page was taken from xxx Article xx
 Instructions on how to xx for the xx page was taken from xx
 The icons in the footer were taken from Font Awesome (link)
+Booking form - https://mdbootstrap.com/docs/b4/jquery/forms/contact/#html
 
 Media
 The photos used on the home page are from https://www.tukoapp.com/ (logo) and https://www.madrazicarspa.in/#
 The images used for the xx page were taken from xx.
 Using a Bootstrap and Font Awesome framwork.
+
+When stuck
+https://www.w3schools.com/
+https://www.geeksforgeeks.org/
+ 
 
 ## Future features
 A user to be able to create a profile to return to that rememers their details and previous bookings.
