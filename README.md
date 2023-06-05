@@ -14,71 +14,106 @@ Photos or before and after with happy customers. Positive custoner reviews. Deta
 
 # Sections
 ## List of features
+
 ### Existing Features
 Home Page
 #### Navigation Bar
-This will feature identically on all 4 pages, the fully responsive navigation bar will include links to the Home page, Services, Booking and Contact Us page. The bar will include icons alongside words for each page link.
+This will feature identically on all 3 pages, the fully responsive navigation bar will include links to the Home page, Services, Booking and Contact Us page. The bar will include icons alongside words for each page link.
 This section will allow the user to navigate between pages on the site easily across all devices. It also means that the back button is not required.
 
 IMAGE of navigation bar
 
 #### The landing page image
-The landing includes a large photograph applicable to the service the company is offering with this site. This is an eye catching image to grab the attention of the user and stir interest in the rest of the site. 
+The landing page will include a large photograph applicable to the service the company is offering with this site. This is an eye catching image to grab the attention of the user and stir interest in the rest of the site. 
 There is an overlay of the companys title and logo to clearly identify who the site belongs to.
 
 IMAGE of page image
 
-#### Who are we section
+#### About Us section
+This will provide customers a summary of the company and the benefits to them.
 
 #### Review section
+This will feature reviews and images (2:1 or 1:2) on every page. 
 
 #### Footer bar
-This will feature identically on all 4 pages with responsive links to the companys social media pages. There will also be a summary of the companys contact details for ease of use of the user if they are in a rush. 
+This will feature identically on all 43 pages with responsive links to the companys social media pages. There will also be a summary of the companys contact details for ease of use of the user if they are in a rush. 
 
 IMAGE of footer
 
+Services page
+#### Our Services section
+This section will provide the customer a list of services external and internal to their car that they can purchase as well as a diagram example.
+
+Book / Contact page
+#### Book Now section
+This section will provide the customer with a form where they will need to enter details to make a booking to get their car cleaned. 
+
+#### Contact Us section
+This section is here is the cutsomer has any further questions not answered by the website so they have the company contact information to further reach out.
+
 ## UX/UI
 ### Site Goals 
-The goal od xxx is to offer a selection of at home car wash and car cleaning services for users to book as well as provide information about the company. The site should be easy to navigate and visually pleasing. 
+The goal of Car Spa By Chlow website is to offer a selection of at home car wash and car cleaning services for users to book as well as provide information about the company. The site should be easy to navigate and visually pleasing. 
 ### Design choices
+XX
 ### User stories
 As a customer:
 * I want to easily figure out the purpose of the website.
 * I want to navigate easily around the site.
-* I want to be able to find a list of services and prices.
+* I want to be able to find a list of services.
 * I want to be able to get in contact with the company.
 * I want to be able to make a booking quickly.
-* I want confirmation that my booking has been made.
 * I want reassurance of the repuation of the company.
 
 As the site owner:
-* I want to be able to add new services and update prices.
+* I want to be able to add new services and update the site easily.
 * I want to be able to remove reviews if need be.
-* I want to be able to update area span we are willing to travel to.
-* I want to be able to keep track of my bookings.
+* I want to be able to have a booking form.
 
 ### Wireframes
+iNSERT IMAGE OF WIRE FRAMES XX
+
 ### Database structure (PP3, PP4, PP5)
+
 ### Anything else
 
 ## Testing
-Contuct enough testing to prve the site works well. Go over all features and ensure they work as intended and the site nprovides an easy and simple way for the user to achieve their goal.
+Contuct enough testing to prve the site works well. Go over all features and ensure they work as intended and the site provides an easy and simple way for the user to achieve their goal.
 Mention how the project looks/works in different browsers.
 Mention and bugs/problems during testing and how you addressed them.
 ### Manual Testing
-Extensively test document
+I have extensively tested all pages of the website. All links connect to the right pages and external resources. When I go from different brower sizes the pages are reactive and clear.
 ### Testing User Stories
 Expectation - I want to easily figure out the purpose of the website.
 Result - 
 
-Expectation - 
+Expectation - I want to navigate easily around the site.
 Result - 
+
+Expectation - I want to be able to find a list of services.
+Result -
+
+Expectation - I want to be able to get in contact with the company.
+Result 
+
+Expectation - I want to be able to make a booking quickly.
+Result 
+
+Expectation - I want reassurance of the repuation of the company.
+Result
+
+
+
+As the site owner:
+* I want to be able to add new services and update the site easily.
+* I want to be able to remove reviews if need be.
+* I want to be able to have a booking form.
 
 ### Validator Testing
 HTML
-There were xx errors returned when passing throuh the official W3W validator
+There were zero errors returned when passing throuh the official W3W validator
 CSS
-There were xx errors found when passing through the official (Jigsaw) validator.
+There were zero errors found when passing through the official (Jigsaw) validator.
 
 ### Unfixed Bugs
 What they are and why not fixed.,
@@ -103,7 +138,7 @@ The images used for the xx page were taken from xx.
 Using a Bootstrap and Font Awesome framwork.
 
 ## Future features
-A user to be able to create a profile ro return to that rememers their details and previous bookings.
+A user to be able to create a profile to return to that rememers their details and previous bookings.
 
 
 
