@@ -74,6 +74,10 @@ p {
     margin-bottom: 25px;
 }
 
+img {
+    padding-top: 5%;
+}
+
 /*--------------------------------Heading */
 
 header {
@@ -177,6 +181,11 @@ footer {
 
 /*--------------------------------About Us*/
 
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+}
 
 /*--------------------------------Customer Reviews*/
 

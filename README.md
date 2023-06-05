@@ -81,6 +81,7 @@ iNSERT IMAGE OF WIRE FRAMES XX
 Contuct enough testing to prve the site works well. Go over all features and ensure they work as intended and the site provides an easy and simple way for the user to achieve their goal.
 Mention how the project looks/works in different browsers.
 Mention and bugs/problems during testing and how you addressed them.
+
 ### Manual Testing
 I have extensively tested all pages of the website. All links connect to the right pages and external resources. When I go from different brower sizes the pages are reactive and clear.
 ### Testing User Stories
