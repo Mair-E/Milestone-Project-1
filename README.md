@@ -9,14 +9,38 @@ Site users are customers who are looking to get their car washed and inside vall
 ## Site owner's goal: 
 The company is interested in attracting new customers in order to make sales.
 
-## Features to include: 
-Photos or before and after with happy customers. Positive custoner reviews. Details of different services and what they offer. Information on the companys area span, opening hours, contact details and external resources (socials). Easy way for customers to book.
+## Table of Contents
+1. <ul>Features
+    <li>Home Page</li>
+    <li>Services Page</li>
+    <li>Book/Contact Page</li>
+    </ul>
 
-# Sections
-## List of features
+2. <ul>UX/UI
+    <li>Site Goals</li>
+    <li>Design Choices</li>
+    <li>User Stories</li>
+    <li>Wire Frames</li>
+    </ul>
 
-### Existing Features
-Home Page
+3. <ul>Testing
+    <li> xxx</li>
+    
+    </ul>
+
+4. <ul>Deployment
+    <li> xxx</li>
+    
+    </ul>
+
+5. Citation of all sources
+
+6. Future Features
+
+## Features: 
+Photos or before and after with happy customers. Positive customer reviews. Details of different services and what they offer. Information on the companys, contact details and external resources (socials). Easy way for customers to book.
+
+### Home Page
 #### Navigation Bar
 This will feature identically on all 3 pages, the fully responsive navigation bar will include links to the Home page, Services, Booking and Contact Us page. The bar will include icons alongside words for each page link.
 This section will allow the user to navigate between pages on the site easily across all devices. It also means that the back button is not required.
@@ -40,11 +64,11 @@ This will feature identically on all 43 pages with responsive links to the compa
 
 IMAGE of footer
 
-Services page
+### Services page
 #### Our Services section
 This section will provide the customer a list of services external and internal to their car that they can purchase as well as a diagram example.
 
-Book / Contact page
+### Book / Contact page
 #### Book Now section
 This section will provide the customer with a form where they will need to enter details to make a booking to get their car cleaned. 
 
@@ -72,11 +96,6 @@ As the site owner:
 
 ### Wireframes
 iNSERT IMAGE OF WIRE FRAMES XX
-
-### Database structure (PP3, PP4, PP5)
-
-### Anything else
-
 
 ## Testing
 Contuct enough testing to prve the site works well. Go over all features and ensure they work as intended and the site provides an easy and simple way for the user to achieve their goal.
@@ -149,36 +168,3 @@ https://www.geeksforgeeks.org/
 A user to be able to create a profile to return to that rememers their details and previous bookings.
 After having spoken to my mentor and reviewing my README.md we have identified that it would be beneficial to break up my comimts into smaller chunks with better descriptions. I will ensure to do this in the future. 
 
-
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
