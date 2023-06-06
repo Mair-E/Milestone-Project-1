@@ -11,27 +11,23 @@
 }
 
 .bg-color-menu {
-    background-color: #f5d506;
+    background-color: #f5d50677;
 }
 
 .bg-color-customer-review {
-    background-color: #f5d506;
+    background-color: #f5d50677;
 }
 
 .ui-menu-color-home {
-    background-color: #f5d506;
+    background-color: #f5d50677;
 }
 
 .ui-menu-color-services {
-    background-color: #f5d506;
+    background-color: #f5d50677;
 }
 
 .ui-menu-color-book {
-    background-color: #f5d506;
-}
-
-.ui-menu-color-contact {
-    background-color: #f5d506;
+    background-color: #f5d50677;
 }
 /*--------------------------------Special paddings/margins/text */
 
@@ -100,19 +96,6 @@ header {
     -webkit-transition: all .5s ease-in-out;
 }
 
-.visually-hidden {
-    position: absolute;
-  position: absolute !important;
-  width: 1px !important;
-  height: 1px !important;
-  padding: 0 !important;
-  margin: -1px !important;
-  overflow: hidden !important;
-  clip: rect(0,0,0,0) !important;
-  white-space: nowrap !important;
-  border: 0 !important;
-}
-
 .title {
     font-family: "Anton", sans-serif;
     font-weight: 100;
@@ -154,6 +137,7 @@ header {
     height: 120px;
     text-align: center;
     padding: 0;
+   
 }
 
 /*--------------------------------Footer */
