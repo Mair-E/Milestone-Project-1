@@ -118,36 +118,36 @@ The site was developed on my laptop using google chrome browser so also majority
 
 
 ### Testing User Stories
-* <ul>Customer
+Customer
 
-<li>Expectation - I want to easily figure out the purpose of the website.</li>
-<li>Result - When connecting to the home page of the site looking at the header as well as contents of the page, it is clear that the site is for a car wash company.</>
+* Expectation - I want to easily figure out the purpose of the website.
+* Result - When connecting to the home page of the site looking at the header as well as contents of the page, it is clear that the site is for a car wash company.
 
-Expectation - I want to navigate easily around the site.
-Result - The landing image takes you back to the home page from all pages and the headings are located in the same place on each page to easily navigate the site.
+* Expectation - I want to navigate easily around the site.
+* Result - The landing image takes you back to the home page from all pages and the headings are located in the same place on each page to easily navigate the site.
 
-Expectation - I want to be able to find a list of services.
-Result - By following the services link in the heading for Services it takes you to the Services page where it lists external and internal services provided by the company.
+* Expectation - I want to be able to find a list of services.
+* Result - By following the services link in the heading for Services it takes you to the Services page where it lists external and internal services provided by the company.
 
-Expectation - I want to be able to get in contact with the company.
-Result - By following the services link in the heading for Book / Contact it takes you to the Booking and Contact page page where contact details are provided. There is also a quick summary of these on the footer of every page.
+* Expectation - I want to be able to get in contact with the company.
+* Result - By following the services link in the heading for Book / Contact it takes you to the Booking and Contact page page where contact details are provided. There is also a quick summary of these on the footer of every page.
 
-Expectation - I want to be able to make a booking quickly.
-Result - By following the services link in the heading for Book /Contact it takes you to the Booking and Contact page page where a booking form is provided. Here a customer can enter their details and the service they want and a team member will get back to them to confirm the booking.
+* Expectation - I want to be able to make a booking quickly.
+* Result - By following the services link in the heading for Book /Contact it takes you to the Booking and Contact page page where a booking form is provided. Here a customer can enter their details and the service they want and a team member will get back to them to confirm the booking.
 
-Expectation - I want reassurance of the reputation of the company.
-Result - There is an example of a customer review on all 3 pages of the site from a variety of sources so customers can gage that the company has a good reputation and is worth while using.
-</ul>
-* Owner
+* Expectation - I want reassurance of the reputation of the company.
+* Result - There is an example of a customer review on all 3 pages of the site from a variety of sources so customers can gage that the company has a good reputation and is worth while using.
 
-Expectation - I want to be able to add new services and update the site easily.
-Result - The code is displayed clearly so users can quickly find the Services section on the services.html page to update.
+Owner
 
-Expectation - I want to be able to remove reviews if need be.
-Result - The code is displayed clearly so users can quickly find the Customer Review section  of all pages to update.
+* Expectation - I want to be able to add new services and update the site easily.
+* Result - The code is displayed clearly so users can quickly find the Services section on the services.html page to update.
 
-Expectation - I want to be able to have a booking form.
-Result - If you navigate through the navigation bar to Book / Contact pager there is a clear form for customers to fill out.
+* Expectation - I want to be able to remove reviews if need be.
+* Result - The code is displayed clearly so users can quickly find the Customer Review section  of all pages to update.
+
+* Expectation - I want to be able to have a booking form.
+* Result - If you navigate through the navigation bar to Book / Contact pager there is a clear form for customers to fill out.
 
 ### Validator Testing
 HTML
