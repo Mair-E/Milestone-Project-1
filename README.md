@@ -1,10 +1,10 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 # Overall goal: 
-Build a website for a come to you car wash and vallet company.
+Build a website to promote a car wash company.
 
 ## External user’s goal: 
-Site users are customers who are looking to get their car washed and inside valleted. They want to know about services and prices and if this company is suitable for their location.
+Site users are customers who are looking to get their car washed. They want to know about services offered and how to book.
 
 ## Site owner's goal: 
 The company is interested in attracting new customers in order to make sales.
@@ -24,18 +24,17 @@ The company is interested in attracting new customers in order to make sales.
     </ul>
 
 3. <ul>Testing
-    <li> xxx</li>
-    
+    <li>Manual Testing</li>
+    <li>Testing User Stories</li>
+    <li>Validator Testing</li>
+    <li>Bugs</li>
     </ul>
 
-4. <ul>Deployment
-    <li> xxx</li>
+4. <ul>Deployment</ul>
     
-    </ul>
+5. <ul>Citation of all sources</ul>
 
-5. Citation of all sources
-
-6. Future Features
+6. <ul>Future Features</ul>
 
 ## Features: 
 Photos or before and after with happy customers. Positive customer reviews. Details of different services and what they offer. Information on the companys, contact details and external resources (socials). Easy way for customers to book. All pages will be responsive to the device a customer is using to access the site, for example columns stack on smaller devices and images resize to remain clean where as on computer screens with a large window rows have columns side by side.
@@ -119,7 +118,8 @@ The site was developed on my laptop using google chrome browser so also majority
 
 
 ### Testing User Stories
--Customer
+*Customer
+
 Expectation - I want to easily figure out the purpose of the website.
 Result - When connecting to the home page of the site looking at the header as well as contents of the page, it is clear that the site is for a car wash company.
 
@@ -138,15 +138,16 @@ Result - By following the services link in the heading for Book /Contact it take
 Expectation - I want reassurance of the reputation of the company.
 Result - There is an example of a customer review on all 3 pages of the site from a variety of sources so customers can gage that the company has a good reputation and is worth while using.
 
--Owner
+* Owner
+
 Expectation - I want to be able to add new services and update the site easily.
-Result - 
+Result - The code is displayed clearly so users can quickly find the Services section on the services.html page to update.
 
 Expectation - I want to be able to remove reviews if need be.
-Result - 
+Result - The code is displayed clearly so users can quickly find the Customer Review section  of all pages to update.
 
 Expectation - I want to be able to have a booking form.
-Result - 
+Result - If you navigate through the navigation bar to Book / Contact pager there is a clear form for customers to fill out.
 
 ### Validator Testing
 HTML
@@ -172,9 +173,9 @@ The icons in the footer were taken from Font Awesome (link) and contect directly
 Booking form - https://mdbootstrap.com/docs/b4/jquery/forms/contact/#html
 
 Media
-The images used on the home page are from https://www.tukoapp.com/ (logo) and https://www.madrazicarspa.in/# (About Us)
+The images used on the home page are from https://www.tukoapp.com/ (logo) and https://www.madrazicarspa.in/# (About Us) and https://www.vectorstock.com/ (Reviews)
 The images used for the services page were taken from https://depositphotos.com.
-The images used for the services page were taken from xx.
+The images used for the book /contact page were taken from https://www.vectorstock.com/.
 All other media is my own.
 
 When I needed advice with coding queries or things not working as I had wanted I used sites such as:
