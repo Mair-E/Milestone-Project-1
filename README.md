@@ -44,14 +44,14 @@ Photos or before and after with happy customers. Positive customer reviews. Deta
 This will feature identically on all 3 pages, the fully responsive navigation bar will include links to the Home page, Services, Booking and Contact Us page. The bar will include icons alongside words for each page link.
 This section will allow the user to navigate between pages on the site easily across all devices. It also means that the back button is not required.
 
-![nav bar](https://github.com/mair-e/milestone-project-1/blob/main/navbar.png?raw=true)
+![nav bar](https://github.com/Mair-E/Milestone-Project-1/blob/main/assets/images/readme/navbar.PNG)
 
 #### The landing page image
 The landing page will include a large photograph applicable to the service the company is offering with this site. This is an eye catching image to grab the attention of the user and stir interest in the rest of the site. 
 There is an overlay of the companys title and logo to clearly identify who the site belongs to.
 
 ![landing page image](https://github.com/Mair-E/Milestone-Project-1/blob/main/assets/images/readme/logo.PNG)
-![company title](https://github.com/mair-e/Milestone-Project-1/assets/images/readme/blob/main/title.png?raw=true)
+![company title](https://github.com/Mair-E/Milestone-Project-1/blob/main/assets/images/readme/title.PNG)
 
 #### About Us section
 This will provide customers a summary of the company and the benefits to them. It will also feature a graph to show how a clean car equals happiness!
@@ -62,7 +62,7 @@ This will feature customer reviews and images (2:1 or 1:2) on every page.
 #### Footer bar
 This will feature identically on all 3 pages with responsive links to the companys social media pages. There will also be a summary of the companys contact details for ease of use of the user if they are in a rush. 
 
-![footer](https://github.com/mair-e/milestone-project-1/blob/main/footer.png?raw=true)
+![footer](https://github.com/Mair-E/Milestone-Project-1/blob/main/assets/images/readme/footer.PNG)
 
 ### Services page
 #### Our Services section
@@ -98,10 +98,10 @@ As the site owner:
 
 ### Wireframes
 
-![home page wire frame](https://github.com/mair-e/milestone-project-1/blob/main/homewireframe.jpg?raw=true)
-![services page wire frame](https://github.com/mair-e/milestone-project-1/blob/main/servicveswireframea.jpg?raw=true)
-![services page wire frame](https://github.com/mair-e/milestone-project-1/blob/main/servicveswireframeb.jpg?raw=true)
-![book /contact page wire frame](https://github.com/mair-e/milestone-project-1/blob/main/bookwireframe.jpg?raw=true)
+![home page wire frame](https://github.com/Mair-E/Milestone-Project-1/blob/main/assets/images/readme/homewireframe.JPG)
+![services page wire frame](https://github.com/Mair-E/Milestone-Project-1/blob/main/assets/images/readme/serviceswireframea.JPG)
+![services page wire frame](https://github.com/Mair-E/Milestone-Project-1/blob/main/assets/images/readme/serviceswireframeb.JPG)
+![book /contact page wire frame](https://github.com/Mair-E/Milestone-Project-1/blob/main/assets/images/readme/bookwireframe.JPG)
 
 ## Testing
 Conduct enough testing to prve the site works well. Go over all features and ensure they work as intended and the site provides an easy and simple way for the user to achieve their goal.
@@ -161,7 +161,16 @@ All inks have been checked with [W3C Link Checker](https://validator.w3.org/chec
 No bugs were found when reviewing and validating the site pages. I did encounter an issue of not being able to change the colour of the navigation links so instead I lightened the background to ensure accessibility.
 
 ## Deployment
-Detailed steps of how you deployed live version of project.
+Log in to your GitHub account.
+1. You can set up your own repository and copy or clone it, or you fork the repository.
+2. `git add`, `git commit` and `git push` to a GitHub repository, if necessary.
+3. GitHub pages will update from the master branch by default.
+4. Go to the **Settings** page of the repository.
+5. Scroll down to the **Pages** section.
+7. Select the Main Branch as the source and **Save** the selection.
+8. Wait a minute or two and it should be live for viewing.
+
+To deploy my project I ensured everything on my github was added to, commited and pushed live. I then follwed these instructions to push it live - https://mair-e.github.io/Milestone-Project-1/ .
 
 ## Citation of all sources (code, images,text)
 Any code you have used from online, aknowledge the developer  who came up with it. Link to website/article and mention author's name.
