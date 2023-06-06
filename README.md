@@ -1,7 +1,7 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 # Overall goal: 
-Build a website to promote a car wash company.
+Build a website to promote a car wash company. https://mair-e.github.io/Milestone-Project-1/
 
 ## External user’s goal: 
 Site users are customers who are looking to get their car washed. They want to know about services offered and how to book.
@@ -51,7 +51,7 @@ The landing page will include a large photograph applicable to the service the c
 There is an overlay of the companys title and logo to clearly identify who the site belongs to.
 
 ![landing page image](https://github.com/mair-e/milestone-project-1/blob/main/logo.png?raw=true)
-![company title](https://github.com/mair-e/milestone-project-1/blob/main/title.png?raw=true)
+![company title](https://github.com/mair-e/Milestone-Project-1/assets/images/readme/blob/main/title.png?raw=true)
 
 #### About Us section
 This will provide customers a summary of the company and the benefits to them. It will also feature a graph to show how a clean car equals happiness!
@@ -104,7 +104,7 @@ As the site owner:
 ![book /contact page wire frame](https://github.com/mair-e/milestone-project-1/blob/main/bookwireframe.jpg?raw=true)
 
 ## Testing
-Condtuct enough testing to prve the site works well. Go over all features and ensure they work as intended and the site provides an easy and simple way for the user to achieve their goal.
+Conduct enough testing to prve the site works well. Go over all features and ensure they work as intended and the site provides an easy and simple way for the user to achieve their goal.
 Mention how the project looks/works in different browsers.
 Mention and bugs/problems during testing and how you addressed them.
 
