@@ -50,7 +50,7 @@ This section will allow the user to navigate between pages on the site easily ac
 The landing page will include a large photograph applicable to the service the company is offering with this site. This is an eye catching image to grab the attention of the user and stir interest in the rest of the site. 
 There is an overlay of the companys title and logo to clearly identify who the site belongs to.
 
-![landing page image](https://github.com/mair-e/milestone-project-1/blob/main/logo.png?raw=true)
+![landing page image](https://github.com/Mair-E/Milestone-Project-1/blob/main/assets/images/readme/logo.PNG)
 ![company title](https://github.com/mair-e/Milestone-Project-1/assets/images/readme/blob/main/title.png?raw=true)
 
 #### About Us section
