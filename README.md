@@ -45,6 +45,8 @@ Photos or before and after with happy customers. Positive customer reviews. Deta
 This will feature identically on all 3 pages, the fully responsive navigation bar will include links to the Home page, Services, Booking and Contact Us page. The bar will include icons alongside words for each page link.
 This section will allow the user to navigate between pages on the site easily across all devices. It also means that the back button is not required.
 
+![alt text](https://github.com/maire/milestoneproject/blob/main/navbar.png?raw=true)
+
 IMAGE of navigation bar
 
 #### The landing page image
